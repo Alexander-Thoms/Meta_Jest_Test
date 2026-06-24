@@ -1,0 +1,16 @@
+{
+  "name": "meta_jest_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Timestwo.js",
+  "scripts": {
+    "test": "jest --json --outputFile=testResult.json --coverage --coverageReporters='json-summary'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
